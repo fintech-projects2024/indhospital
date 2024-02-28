@@ -1,5 +1,5 @@
 # Document Manager
-This Project helps you understand loan amount and help to calculate. Created by Niyati Patel B.Sc. Data Sem 5
+This Project helps you understand indian hospital system and manage their data digitally and help to calculate. Created by Yash Chouhan B.Sc. Data Sem 5
 
 
 ## Table of Contents
@@ -13,16 +13,16 @@ Include screenshots or images showcasing your project. Use relative paths for im
 
 ![Screenshot 1](./screenshots/screenshot1.png)
 
-![Screenshot 3](./screenshots/screenshot3.png)
-![Screenshot 4](./screenshots/screenshot4.png)
-![Screenshot 5](./screenshots/screenshot5.png)
-![Screenshot 6](./screenshots/screenshot6.png)
-![Screenshot 7](./screenshots/screenshot7.png)
-![Screenshot 8](./screenshots/screenshot8.png)
-![Screenshot 9](./screenshots/screenshot9.png)
-![Screenshot 10](./screenshots/screenshot10.png)
-![Screenshot 11](./screenshots/screenshot11.png)
-![Screenshot 12](./screenshots/screenshot12.png)
+![Screenshot 3](./screenshots/screenshot3.jpg)
+![Screenshot 4](./screenshots/screenshot4.jpg)
+![Screenshot 5](./screenshots/screenshot5.jpg)
+![Screenshot 6](./screenshots/screenshot6.jpg)
+![Screenshot 7](./screenshots/screenshot7.jpg)
+![Screenshot 8](./screenshots/screenshot8.jpg)
+![Screenshot 9](./screenshots/screenshot9.jpg)
+![Screenshot 10](./screenshots/screenshot10.jpg)
+![Screenshot 11](./screenshots/screenshot11.jpg)
+![Screenshot 12](./screenshots/screenshot12.jpg)
 ![Screenshot 13](./screenshots/screenshot13.png)
 ![Screenshot 14](./screenshots/screenshot14.png)
 
